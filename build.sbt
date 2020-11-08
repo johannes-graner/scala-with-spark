@@ -1,5 +1,5 @@
 scalaVersion := "2.12.10"
-name := "scala-prob"
+name := "scala-kaggle"
 organization := "JohannesGraner"
 version := "1.0-SNAPSHOT"
 
